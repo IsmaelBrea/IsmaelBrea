@@ -1,24 +1,60 @@
-# 💫 About Me:
- 🎓 Computer Engineering Student  | 🔐 Cybersecurity Enthusiast<br>⚽ Football Lover<br>🏋️‍♂️ Sports & Fitness Fan<br>🔗 Instagram: @ismabrea_ |  X: @ismabrea
+<h1 align="center">🐧 Ismael Brea</h1>
+<h3 align="center">🎓 Estudiante de Ingeniería Informática | 🔐 Entusiasta de la Ciberseguridad | ⚽ Amante del Fútbol | 🏋️‍♂️ Fanático del Deporte</h3>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ismabrea#4541)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ismabrea_)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-brea-a05761312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ismabrea)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white) ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-%230A4E3E.svg?style=for-the-badge&logo=cisco&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-%23447B8B.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IsmaelBrea&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=IsmaelBrea&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelBrea&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=IsmaelBrea&limit=5&theme=dark&combine_all_yearly_contributions=true)ts=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IsmaelBrea&label=Visitas+al+perfil&color=f0db4f&style=flat-square" alt="Contador de visitas"/>
+  <img src="https://img.shields.io/github/followers/IsmaelBrea?label=Seguidores&style=flat-square&color=f0db4f" alt="Seguidores"/>
+  <img src="https://img.shields.io/github/stars/IsmaelBrea?label=Estrellas&style=flat-square&color=f0db4f" alt="Estrellas"/>
+</p>
 
 ---
+
+### 🧠 Sobre mí
+
+Estudiante de **Ingeniería Informática** con un fuerte enfoque en **ciberseguridad**, entusiasta de la tecnología y apasionado por la **ciberseguridad ofensiva y defensiva**.  
+Me especializo en **redes, hacking ético**, y la administración de sistemas, con experiencia en **Linux** y **Python**.
+
+Además de mis estudios, disfruto compartir mi conocimiento a través de redes sociales y canales educativos.  
+Sigue mis contenidos y proyectos en mis redes:  
+📺 [Instagram](https://instagram.com/ismabrea_) | 🐦 [X](https://x.com/ismabrea)
+
+---
+
+### 🔧 Tecnologías que domino
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,ocaml,java,aws,flutter,oracle,apache,powershell,python,git,packettracer,sql" />
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsmaelBrea&show_icons=true&theme=dark&locale=es&title_color=f0db4f&text_color=ffffff&icon_color=f0db4f&border_radius=10" alt="Estadísticas GitHub" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelBrea&layout=compact&theme=dark&locale=es&title_color=f0db4f&text_color=ffffff" alt="Lenguajes más usados"/>
+</p>
+
+---
+
+### 🌐 Contacto y redes
+
+<p align="center">
+  <a href="https://github.com/IsmaelBrea" target="_blank" title="GitHub">
+    <img src="https://img.icons8.com/ios-glyphs/50/f0db4f/github.png" width="40" height="40" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ismael-brea-a05761312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" title="LinkedIn">
+    <img src="https://img.icons8.com/ios-filled/50/f0db4f/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/ismabrea" target="_blank" title="X">
+    <img src="https://img.icons8.com/ios-filled/50/f0db4f/x.png" width="40" height="40" alt="X"/>
+  </a>
+</p>
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=IsmaelBrea&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
