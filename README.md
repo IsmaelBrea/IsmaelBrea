@@ -25,11 +25,9 @@ Sigue mis contenidos y proyectos en mis redes:
 
 ### 🔧 Tecnologías utilizadas
 
-### 🔧 Tecnologías que domino
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,ocaml,java,aws,flutter,oracle,apache,powershell,python,git,sql" />
-  <img src="https://img.shields.io/badge/Packet Tracer-0A4E3E?style=flat-square&logo=cisco&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/Packet Tracer-0A4E3E?style=flat&logo=cisco&logoColor=white" height="22"/>
 </p>
 
 
