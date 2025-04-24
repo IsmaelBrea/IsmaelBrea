@@ -12,9 +12,8 @@
 ### 🧠 Sobre mí
 
 Estudiante de **Ingeniería Informática** con un fuerte enfoque en **ciberseguridad**, entusiasta de la tecnología y apasionado por la **ciberseguridad ofensiva y defensiva**.  
-Me especializo en **redes, hacking ético**, y la administración de sistemas, con experiencia en **Linux** y **Python**.
-
-Además de mis estudios, disfruto compartir mi conocimiento a través de redes sociales y canales educativos.  
+Me especializo en **la rama de Tecnologías de la Información**, y en la administración de sistemas.
+  
 Sigue mis contenidos y proyectos en mis redes:  
 📺 [Instagram](https://instagram.com/ismabrea_) | 🐦 [X](https://x.com/ismabrea)
 
