@@ -25,11 +25,13 @@ Sigue mis contenidos y proyectos en mis redes:
 
 ### 🔧 Tecnologías utilizadas
 
-<p align="center">
+<p align="center" style="display:flex;gap:0;">
+  <!-- Icons de skillicons (todos del mismo tamaño) -->
   <img src="https://skillicons.dev/icons?i=c,ocaml,java,aws,flutter,oracle,apache,powershell,python,git,sql" />
-  <img src="https://img.shields.io/badge/Packet Tracer-0A4E3E?style=flat&logo=cisco&logoColor=white" height="22"/>
-</p>
 
+  <!-- Badge de Packet Tracer, ajustado a 22 px de alto para igualar -->
+  <img src="https://img.shields.io/badge/Packet%20Tracer-0A4E3E?style=flat&logo=cisco&logoColor=white" height="22">
+</p>
 
 ---
 
