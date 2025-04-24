@@ -15,6 +15,7 @@ Estudiante de **Ingeniería Informática** con un fuerte enfoque en **cibersegur
 Me especializo en **la rama de Tecnologías de la Información**, y en la administración de sistemas.
   
 Sigue mis contenidos y proyectos en mis redes: 
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ismabrea#4541)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ismabrea_)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-brea-a05761312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
