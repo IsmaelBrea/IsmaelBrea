@@ -23,7 +23,7 @@ Sigue mis contenidos y proyectos en mis redes:
 
 ---
 
-### 🔧 Tecnologías que domino
+### 🔧 Tecnologías utilizadas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,ocaml,java,aws,flutter,oracle,apache,powershell,python,git,packettracer,sql" />
