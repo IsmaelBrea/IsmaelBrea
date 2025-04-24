@@ -23,7 +23,7 @@ Sigue mis contenidos y proyectos en mis redes:
 
 ---
 
-### 🔧 Tecnologías utilizadas
+### 🔧 Tecnologías que domino
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,ocaml,java,aws,flutter,oracle,apache,powershell,python,git,packettracer,sql" />
@@ -34,9 +34,9 @@ Sigue mis contenidos y proyectos en mis redes:
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,ocaml,java,aws,flutter,oracle,apache,powershell,python,git" />
-  <img src="https://skillicons.dev/icons?i=sql" />
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0A4E3E?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IsmaelBrea&show_icons=true&theme=dark&locale=es&title_color=f0db4f&text_color=ffffff&icon_color=f0db4f&border_radius=10" alt="Estadísticas GitHub" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelBrea&layout=compact&theme=dark&locale=es&title_color=f0db4f&text_color=ffffff" alt="Lenguajes más usados"/>
 </p>
 
 ---
@@ -60,4 +60,5 @@ Sigue mis contenidos y proyectos en mis redes:
 ---
 
 [![](https://visitcount.itsvg.in/api?id=IsmaelBrea&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
