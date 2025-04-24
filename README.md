@@ -12,7 +12,7 @@
 ### 🧠 Sobre mí
 
 Estudiante de **Ingeniería Informática** con un fuerte enfoque en **ciberseguridad**, entusiasta de la tecnología y apasionado por la **ciberseguridad ofensiva y defensiva**.  
-Me especializo en **la rama de Tecnologías de la Información**, y en la administración de sistemas.
+Me especializo en **la rama de Tecnologías de la Información**.
   
 Sigue mis contenidos y proyectos en mis redes: 
 
