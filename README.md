@@ -1,5 +1,5 @@
 <h1 align="center">🐧 Ismael Brea</h1>
-<h3 align="center">🎓 Estudiante de Ingeniería Informática | 🔐 Entusiasta de la Ciberseguridad | ⚽ Amante del Fútbol | 🏋️‍♂️ Fanático del Deporte</h3>
+<h3 align="center">🎓 Estudiante de Ingeniería Informática | 🔐 Entusiasta de la Ciberseguridad | ⚽ Fútbol | 🏋️‍♂️ Fanático del Deporte</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IsmaelBrea&label=Visitas+al+perfil&color=f0db4f&style=flat-square" alt="Contador de visitas"/>
