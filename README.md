@@ -52,8 +52,8 @@ Sigue mis contenidos y proyectos en mis redes:
     <img src="https://img.icons8.com/ios-glyphs/50/f0db4f/github.png" width="40" height="40" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ismael-brea-a05761312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" title="LinkedIn">
-    <img src="https://img.icons8.com/ios-filled/50/f0db4f/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/ismael-brea-arias-a05761312" target="_blank" title="LinkedIn">
+  <img src="https://img.icons8.com/ios-filled/50/f0db4f/linkedin.png" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/ismabrea" target="_blank" title="X">
