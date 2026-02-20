@@ -35,12 +35,19 @@ Sigue mis contenidos y proyectos en mis redes:
 
 ---
 
+
 ### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsmaelBrea&show_icons=true&theme=dark&locale=es&title_color=f0db4f&text_color=ffffff&icon_color=f0db4f&border_radius=10" alt="Estadísticas GitHub" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelBrea&layout=compact&theme=dark&locale=es&title_color=f0db4f&text_color=ffffff" alt="Lenguajes más usados"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ismaelbrea&show_icons=true&locale=en" alt="GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismaelbrea&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismaelbrea" alt="GitHub streak" />
 </p>
 
 ---
