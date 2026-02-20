@@ -39,14 +39,6 @@ Sigue mis contenidos y proyectos en mis redes:
 ### 📊 Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismaelbrea&show_icons=true&locale=en" alt="GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismaelbrea&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismaelbrea" alt="GitHub streak" />
 </p>
 
