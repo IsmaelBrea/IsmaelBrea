@@ -11,8 +11,7 @@
 
 ### 🧠 Sobre mí
 
-Estudiante de **Ingeniería Informática** con un fuerte enfoque en **ciberseguridad**, entusiasta de la tecnología y apasionado por la **ciberseguridad ofensiva y defensiva**.  
-Me especializo en **la rama de Tecnologías de la Información**.
+Estudiante de Ingeniería Informática con un fuerte enfoque en redes, TI y ciberseguridad, tanto ofensiva como defensiva. Apasionado por la programación y la tecnología, siempre busco aprender cosas nuevas y ampliar mis conocimientos.
   
 Sigue mis contenidos y proyectos en mis redes: 
 
@@ -25,26 +24,22 @@ Sigue mis contenidos y proyectos en mis redes:
 
 ### 🔧 Tecnologías utilizadas
 
-<p align="center" style="display:flex;gap:0;">
-  <!-- Icons de skillicons (todos del mismo tamaño) -->
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,ocaml,java,python,html,flutter,androidstudio,git,linux,debian,kali,bsd,bash,powershell,mysql,aws,docker,grafana,postman" />
-
-  <!-- Badge de Packet Tracer, ajustado a 22 px de alto para igualar -->
-  <img src="https://img.shields.io/badge/Packet%20Tracer-0A4E3E?style=flat&logo=cisco&logoColor=white" height="22">
-   <img src="https://img.shields.io/badge/OMNeT++-007ACC?style=flat&logo=omnetplusplus&logoColor=white" height="22" alt="OMNeT++"/>
+  <img src="https://img.shields.io/badge/Packet%20Tracer-0A4E3E?style=flat&logo=cisco&logoColor=white" height="26" style="vertical-align: top; margin-left: 4px;" />
+  <img src="https://img.shields.io/badge/OMNeT++-007ACC?style=flat&logo=omnetplusplus&logoColor=white" height="26" style="vertical-align: top; margin-left: 4px;" />
 </p>
+
 
 ---
 
-
 ### 📊 Estadísticas de GitHub
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismaelbrea" alt="GitHub streak" />
 </p>
 
 ---
-
 ### 🌐 Contacto y redes
 
 <p align="center">
