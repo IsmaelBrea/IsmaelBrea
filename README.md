@@ -27,10 +27,11 @@ Sigue mis contenidos y proyectos en mis redes:
 
 <p align="center" style="display:flex;gap:0;">
   <!-- Icons de skillicons (todos del mismo tamaño) -->
-  <img src="https://skillicons.dev/icons?i=c,ocaml,java,aws,flutter,powershell,python,git,linux" />
+  <img src="https://skillicons.dev/icons?i=c,ocaml,java,python,html,flutter,androidstudio,git,linux,debian,kali,bsd,bash,powershell,mysql,aws,docker,grafana,postman" />
 
   <!-- Badge de Packet Tracer, ajustado a 22 px de alto para igualar -->
   <img src="https://img.shields.io/badge/Packet%20Tracer-0A4E3E?style=flat&logo=cisco&logoColor=white" height="22">
+   <img src="https://img.shields.io/badge/OMNeT++-007ACC?style=flat&logo=omnetplusplus&logoColor=white" height="22" alt="OMNeT++"/>
 </p>
 
 ---
