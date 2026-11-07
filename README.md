@@ -35,7 +35,7 @@ Sigue mis contenidos y proyectos en mis redes:
 <table>
   <tr>
     <td align="left" width="100">
-      <b>Tools:</b>
+      <b>Cyber Tools:</b>
     </td>
     <td align="center" width="96">
       <a href="https://nmap.org/" target="_blank" rel="noopener noreferrer">
