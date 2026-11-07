@@ -31,6 +31,58 @@ Sigue mis contenidos y proyectos en mis redes:
 </p>
 
 
+<div align="center">
+<table>
+  <tr>
+    <td align="left" width="100">
+      <b>Tools:</b>
+    </td>
+    <td align="center" width="96">
+      <a href="https://nmap.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" width="48" height="48" alt="Nmap"/>
+      </a>
+      <br>Nmap
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.metasploit.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.simpleicons.org/metasploit/2596CD" width="48" height="48" alt="Metasploit"/>
+      </a>
+      <br>Metasploit
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.wireshark.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" alt="Wireshark"/>
+      </a>
+      <br>Wireshark
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="https://ghidra-sre.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Features/Base/src/main/resources/images/GhidraLogo256.png" width="48" height="48" alt="Ghidra"/>
+      </a>
+      <br>Ghidra
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.openwall.com/john/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.kali.org/tools/john/images/john-logo.svg" width="48" height="48" alt="John the Ripper"/>
+      </a>
+      <br>John
+    </td>
+    <td align="center" width="96">
+      <a href="https://portswigger.net/burp" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="48" height="48" alt="Burp Suite"/>
+      </a>
+      <br>Burp Suite
+    </td>
+  </tr>
+</table>
+</div>
+
 ---
 
 ### 📊 Estadísticas de GitHub
