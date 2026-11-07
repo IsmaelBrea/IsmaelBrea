@@ -26,8 +26,6 @@ Sigue mis contenidos y proyectos en mis redes:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,ocaml,java,python,html,flutter,androidstudio,git,linux,debian,kali,bsd,bash,powershell,mysql,aws,docker,grafana,postman" />
-  <img src="https://img.shields.io/badge/Packet%20Tracer-0A4E3E?style=flat&logo=cisco&logoColor=white" height="26" style="vertical-align: top; margin-left: 4px;" />
-  <img src="https://img.shields.io/badge/OMNeT++-007ACC?style=flat&logo=omnetplusplus&logoColor=white" height="26" style="vertical-align: top; margin-left: 4px;" />
 </p>
 
 
