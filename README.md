@@ -39,7 +39,7 @@ Sigue mis contenidos y proyectos en mis redes:
     </td>
     <td align="center" width="96">
       <a href="https://nmap.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" width="48" height="48" alt="Nmap"/>
+        <img src="https://nmap.org/images/nmap-logo-256x256.png" width="48" height="48" alt="Nmap"/>
       </a>
       <br>Nmap
     </td>
@@ -63,7 +63,7 @@ Sigue mis contenidos y proyectos en mis redes:
     </td>
     <td align="center" width="96">
       <a href="https://ghidra-sre.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Features/Base/src/main/resources/images/GhidraLogo256.png" width="48" height="48" alt="Ghidra"/>
+        <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/GhidraDocs/images/GHIDRA_1.png" width="48" height="48" alt="Ghidra"/>
       </a>
       <br>Ghidra
     </td>
